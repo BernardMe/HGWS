@@ -25,3 +25,6 @@ hs_err_pid*
 # UML files
 *.puml
 HGWS_UML.png
+
+# IDEA files
+*.iml
