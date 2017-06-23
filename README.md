@@ -6,3 +6,5 @@ HGWS(Huiguo Website System)
 -|-|-
 user|char|pk
 pwd|char|
+
+Create a new branch is quick.
